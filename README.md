@@ -1,6 +1,13 @@
 # TMDB Movie Data Analysis using Pandas and APIs
 
----
+
+### Project Links
+
+| Deliverable                 | Link                                        |
+| --------------------------- | ------------------------------------------- |
+| **Jupyter Notebook**     | [View Notebook](Movie-Analysis-Notebook.ipynb)         |
+| **Report**         | [View Presentation](Report.pdf) |
+
 
 ## Project Overview
 

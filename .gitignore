@@ -1,1 +1,18 @@
+# Secrets (never commit your API token)
 .env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Editor / OS files
+.vscode/
+.DS_Store
+Thumbs.db
